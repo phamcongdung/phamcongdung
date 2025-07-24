@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Xin chào! Mình là Dũng Phạm
 
-<!--
-**phamcongdung/phamcongdung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cựu kỹ sư chip, hiện đang chuyển hướng sang Flutter developer  
+📚 Đang học: Flutter, Dart, Firebase  
+🧘‍♂️ Yêu thiền, thích thiên nhiên, sống tối giản  
+📝 Viết blog để chia sẻ hành trình học lập trình & đầu tư
 
-Here are some ideas to get you started:
+## 🔧 Kỹ năng
+- Flutter / Dart
+- Firebase / Supabase
+- Git / GitHub
+- Markdown / Notion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Dũng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamcongdung&show_icons=true&theme=gruvbox)
+
+## 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=phamcongdung&theme=github-compact)
+
+## 📌 Dự án nổi bật
+- [MyHabit App](https://github.com/phamcongdung/myhabit) – App Flutter theo dõi thói quen hàng ngày
+- 
+
+## 📫 Liên hệ
+- Email: phamcongdung92@gmail.com
+- LinkedIn: [linkedin.com/in/...](https://linkedin.com/in/...)
+- Blog: *đang xây dựng...*
